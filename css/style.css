@@ -15,6 +15,10 @@ body{
 
 /* banner-section */
 
+.banner-content img {
+  border-radius: 100px;
+}
+
 .banner-section{
     background: url(../images/bg.jpg);
     background-repeat: no-repeat;
